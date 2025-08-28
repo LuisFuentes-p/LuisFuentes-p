@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on a graphical interface with tkinter
 - - 🌱 I’m currently learning sql
+  - now im working on database api
 <!--
 **LuisFuentes-p/LuisFuentes-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
